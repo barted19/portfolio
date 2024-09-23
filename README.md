@@ -17,7 +17,7 @@ If you'd like to run this project locally to see how it's configured or to revie
 - Ensure that you have **Docker** installed on your machine. You can download Docker from [here](https://www.docker.com/products/docker-desktop).
 - Clone this repository using the following command:
   ```bash
-  git clone https://github.com/your-username/portfolio.git
+  git clone https://github.com/barted19/portfolio.git
 
 Running the Project in Docker
     1. Navigate to the project directory:
